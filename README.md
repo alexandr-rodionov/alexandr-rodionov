@@ -23,11 +23,11 @@
 <a href="https://www.postgresql.org" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></a>  
 ✅ Тестирование:
 <a href="https://jestjs.io" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" title="Jest"/></code></a>
-<a href="https://www.cypress.io" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png" alt="Cypress" title="Cypress"/></code></a>  
+<a href="https://www.cypress.io" target="_blank"><code><img width="50" src="https://www.cypress.io/favicon.svg" alt="Cypress" title="Cypress"/></code></a>  
 ✅ DevOps:
 <a href="https://www.docker.com" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></a>  
 ✅ Серверная инфраструктура:
-<a href="" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code></a>  
+<a href="https://nginx.org" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code></a>  
 ✅ Разработка API:
 <a href="https://www.postman.com" target ="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code></a>  
 ✅ Прочие инструменты:
